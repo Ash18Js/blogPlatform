@@ -23,8 +23,8 @@ The database consists of four tables:
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/blog-platform.git
-   cd blog-platform
+   git clone https://github.com/Ash18Js/blogPlatform
+   cd blogPlatform
    \`\`\`
 
 2. Install dependencies:
@@ -56,4 +56,4 @@ For development with auto-restart:
 npm run dev
 \`\`\`
 
-The server will run on http://localhost:3000 by default.
+The server will run on http://localhost:3001 by default.
